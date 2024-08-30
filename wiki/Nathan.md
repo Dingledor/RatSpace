@@ -8,7 +8,9 @@
         </tr>
         <tr>
           <td colspan="2">
-            <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
+            <video controls>
+              <source src="/assets/Nathan_Karaoke.mov" type="video/mov">
+            </video>
           </td>
         </tr>
         <tr>
