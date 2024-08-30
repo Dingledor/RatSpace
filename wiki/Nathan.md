@@ -8,9 +8,7 @@
         </tr>
         <tr>
           <td colspan="2">
-            <video controls>
-              <source src="/assets/Nathan_Karaoke.mov" type="video/mp4">
-            </video>
+            <img src="/assets/images/Nathan_Hot.jpg" alt="Nathan Hot" width="600" height="400">
           </td>
         </tr>
         <tr>
@@ -95,38 +93,38 @@
   }
   </style>
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Kennel.jpg">
-    <img src="/assets/images/Audra-Kennel.jpg" alt="Audra inside a kennel" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Button.jpg">
+    <img src="/assets/images/Nathan_Button.jpg" alt="Nathussy" width="600" height="400">
     </a>
-    <div class="desc">Audra experimenting with petplay</div>
+    <div class="desc">Nathussy</div>
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Yearbook.jpg">
-    <img src="/assets/images/Audra-Yearbook.jpg" alt="Audra yearbook photos" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Dump.JPG">
+    <img src="/assets/images/Nathan_Dump.JPG" alt="Nathan Dump" width="600" height="400">
     </a>
-    <div class="desc">Audra's high school arc</div>
+    <div class="desc">So real</div>
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Peace.jpg">
-    <img src="/assets/images/Audra-Peace.jpg" alt="Audra making peace signs" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Holy.jpg">
+    <img src="/assets/images/Nathan_Holy.jpg" alt="Holy man" width="600" height="400">
     </a>
-    <div class="desc">Audra cute</div>
+    <div class="desc">Wololo</div>
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Tattoo.jpg">
-    <img src="/assets/images/Audra-Tattoo.jpg" alt="Audra posing with Jaden and Cade displaying sonic tattoos" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Hat.jpg">
+    <img src="/assets/images/Nathan_Hat.jpg" alt="Nathan Hat" width="600" height="400">
     </a>
-    <div class="desc">Audra joins an autistic biker gang</div>
+    <div class="desc">Put a lid on the man</div>
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Stare.JPG">
-    <img src="/assets/images/Audra-Stare.JPG" alt="Audra resting head on hands and staring at camera" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Pink.JPG">
+    <img src="/assets/images/Nathan_Pink.JPG" alt="Nathan with pink highlights" width="600" height="400">
     </a>
-    <div class="desc">Audra pretty</div>
+    <div class="desc">Soundcloud Rapper Arc</div>
   </div>
   
   <div class="gallery">
@@ -137,17 +135,17 @@
   </div>
   
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Eyes.jpg">
-    <img src="/assets/images/Audra-Eyes.jpg" alt="Audra eyes" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Puffs.jpg">
+    <img src="/assets/images/Nathan_Puffs.jpg" alt="Nathan Puffs" width="600" height="400">
     </a>
-    <div class="desc">Audra Racism</div>
+    <div class="desc">Pufs</div>
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Cory.jpg">
-    <img src="/assets/images/Audra-Cory.jpg" alt="Audra with Cory" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Vampire.jpg">
+    <img src="/assets/images/Nathan_Vampire.jpg" alt="Vampiire" width="600" height="400">
     </a>
-    <div class="desc">Audra and Cozza</div>
+    <div class="desc">Vampin'</div>
   </div>
 </div>
 <div style="clear:both"></div>
