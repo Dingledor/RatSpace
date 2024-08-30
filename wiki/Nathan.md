@@ -55,30 +55,21 @@
   <p>Nathan</p>
   
   <h2>Early Life</h2>
-  <p>Audra was born on October 27th, 2000 via asexual reproduction between Rivers Cuomo and himself. She then proceeded to fuck around for the next 15 years before entering Millard South High School. It was here she made several lifelong friends and enemies. In 2020 she would found the ancestral realm of "Stinktown" along with friends such as "Traz" and "Nathan".</p>
+  <p>Nathan was born on April 17th, 2001.</p>
   
   <h2>Music</h2>
-  <p>Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly streams live music sets to her Twitch account, "mayorofstinktown" on Twitch.</p>
+  <p></p>
   
   <h2>Media Tastes</h2>
-  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character Norman Jayden. To symbolize her commitment to this game, she wears a metal origami pendant</p>
-  <p>She also enjoys the music of Weezer. Ooo wee ooo.</p>
-  <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLPfan128". It's full of very funny garbage. High concept, low quality. Love it.</p>
+  <p></p>
+  <p></p>
   
   <h2>Quotes</h2>
-  <p>“no loads refused”</p>
-  <p>"I'm an outie vulva"</p>
-  <p>"This past year has just been me finding out how much I love things that simulate the taste of Play-Doh"</p>
-  <p>"He looks like he'd be verbally abusive to me I NEED HIM"</p>
+  <p></p>
 
   <h2>Trivia</h2>
-  <p>Audra claims to be "Toddlerpilled" and enjoys activities such as:</p>
-  <ul>
-    <li>Sitting in booster seats</li>
-    <li>Swinging her legs below her while sitting</li>
-    <li>Activating the child-lock when entering someone's car</li>
-    <li>Drinking from a sippy-cup</li>
-  </ul>
+  <p></p>
+
 <!--Gallery Section-->
   <h2>Gallery</h2>
   <style>
