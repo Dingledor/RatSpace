@@ -53,7 +53,8 @@
   <h2>Quotes</h2>
 
   <h2>Trivia</h2>
-  <p>Trevor manages one of the other most popular Stinktown related websites, <a href='b3ans.com'>b3ans.com</a>.</p>
+  <p>Trevor manages one of the other most popular Stinktown related websites, <a href='https://b3ans.com/'>b3ans.com</a>.</p>
+  <p>Trevor likes to share his favorite movies and TV shows with his friends for free!</p>
 <!--Gallery Section-->
   <h2>Gallery</h2>
   <style>
