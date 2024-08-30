@@ -140,13 +140,6 @@
   </div>
   
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Bayley.jpg">
-    <img src="/assets/images/Audra-Bayley.jpg" alt="Audra and Bayley" width="600" height="400">
-    </a>
-    <div class="desc">Audra and Bayley</div>
-  </div>
-  
-  <div class="gallery">
     <a target="_blank" href="/assets/images/Audra-CockPOV.jpg">
     <img src="/assets/images/Audra-CockPOV.jpg" alt="Audra looking down at camera" width="600" height="400">
     </a>
