@@ -45,7 +45,7 @@
   <p>Trevor (otherwise known as Trebor, Trevonious, Tralion, Turvis, Travis, Tyler, or Kylar) is computer, and a gamer. A cool guy, but unfortunately a ginger.</p>
   
   <h2>Early Life</h2>
-  <p></p>
+  <p>Trevor was one of the original members of Stinktown from Millard South High School.</p>
   
   <h2>Media Tastes</h2>
   <p>Trevor is a fan of the bands Ghost and Blink 182.</p>
@@ -53,6 +53,7 @@
   <h2>Quotes</h2>
 
   <h2>Trivia</h2>
+  <p>Trevor manages one of the other most popular Stinktown related websites, <a href='b3ans.com'>b3ans.com</a>.</p>
 <!--Gallery Section-->
   <h2>Gallery</h2>
   <style>
