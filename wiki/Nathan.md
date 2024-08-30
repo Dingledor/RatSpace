@@ -9,7 +9,7 @@
         <tr>
           <td colspan="2">
             <video controls>
-              <source src="/assets/Nathan_Karaoke.mov" type="video/mov">
+              <source src="/assets/Nathan_Karaoke.mov" type="video/mp4">
             </video>
           </td>
         </tr>
