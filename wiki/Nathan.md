@@ -3,6 +3,7 @@
   <div style="float:right; width:30%; border:2px solid black padding-left=10px">
     <table style="border:2px solid black">
       <tbody>
+        Nathan
         <tr>
           <th colspan="2" style="text-align=center">Nathan</th>
         </tr>
@@ -28,17 +29,6 @@
           <td>Attended Stinkcon I</td>
         </tr>
         <tr>
-          <th>Celebrity Crushes</th>
-          <td>
-            <ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
           <th>Aliases</th>
           <td>
             <ul>
@@ -55,11 +45,8 @@
   <h2>Early Life</h2>
   <p>Nathan was born on April 17th, 2001.</p>
   
-  <h2>Music</h2>
-  <p></p>
-  
   <h2>Media Tastes</h2>
-  <p></p>
+  <p>Nathan is a fan of Ska music and evangelist of the Ska movement.</p>
   <p></p>
   
   <h2>Quotes</h2>
