@@ -25,7 +25,7 @@
         </tr>
         <tr>
           <th>Achievements</th>
-          <td>Attended Stinkcon I</td>
+          <td><a href=>Attended Stinkcon I</a></td>
         </tr>
         <tr>
           <th>Aliases</th>
