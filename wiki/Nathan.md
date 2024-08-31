@@ -3,7 +3,6 @@
   <div style="float:right; width:30%; border:2px solid black padding-left=10px">
     <table style="border:2px solid black">
       <tbody>
-        Nathan
         <tr>
           <th colspan="2" style="text-align=center">Nathan</th>
         </tr>
