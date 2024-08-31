@@ -121,17 +121,17 @@
   </div>
 
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Nathan_Pink.JPG">
-    <img src="/assets/images/Nathan_Pink.JPG" alt="Nathan with pink highlights" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Pink.jpg">
+    <img src="/assets/images/Nathan_Pink.jpg" alt="Nathan with pink highlights" width="600" height="400">
     </a>
     <div class="desc">Soundcloud Rapper Arc</div>
   </div>
   
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-CockPOV.jpg">
-    <img src="/assets/images/Audra-CockPOV.jpg" alt="Audra looking down at camera" width="600" height="400">
+    <a target="_blank" href="/assets/images/Nathan_Waluigi.png">
+    <img src="/assets/images/Nathan_Waluigi.png" alt="Nathan Waluigi" width="600" height="400">
     </a>
-    <div class="desc">Audra cock POV</div>
+    <div class="desc">Waluigi</div>
   </div>
   
   <div class="gallery">
@@ -146,6 +146,13 @@
     <img src="/assets/images/Nathan_Vampire.jpg" alt="Vampiire" width="600" height="400">
     </a>
     <div class="desc">Vampin'</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/Nathan_Wide.JPG">
+    <img src="/assets/images/Nathan_Wide.JPG" alt="Wide Nathan" width="600" height="400">
+    </a>
+    <div class="desc">Wide Nathan</div>
   </div>
 </div>
 <div style="clear:both"></div>
