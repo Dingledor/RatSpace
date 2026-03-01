@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Dingledor/RatSpace/issues"
   },
-  "homepage": "https://github.com/Dingledor/RatSpace#readme"
+  "homepage": "https://github.com/Dingledor/RatSpace#readme",
+  "dependencies": {
+    "vite": "^7.3.1"
+  }
 }
