@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Dingledor/RatSpace#readme",
   "dependencies": {
+    "pixi.js": "^8.16.0",
     "vite": "^7.3.1"
   }
 }
