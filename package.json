@@ -1,0 +1,27 @@
+{
+  "name": "ratspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dingledor/RatSpace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dingledor/RatSpace/issues"
+  },
+  "homepage": "https://github.com/Dingledor/RatSpace#readme",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "pixi.js": "^8.16.0"
+  }
+}
