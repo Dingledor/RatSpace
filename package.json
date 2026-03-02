@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "build": "npm run your-build-script", // Replace with your actual build script
-    "predeploy": "npx vite",
+    "build": "npx vite",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
