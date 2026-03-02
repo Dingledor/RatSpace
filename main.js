@@ -14,7 +14,7 @@ import { GifSprite } from 'pixi.js/gif';
   document.body.appendChild(app.canvas);
 
   const source = await Assets.load (
-    'dorb.gif',
+    'https://userland.pixijs.io/gif/examples/chew.gif',
   );
   
   const dorb = new GifSprite({
@@ -28,5 +28,5 @@ import { GifSprite } from 'pixi.js/gif';
   // Move the sprite to the center of the screen.
   dorb.x = app.screen.width / 2;
   dorb.y = app.screen.height / 2;
-  
+
 })();
