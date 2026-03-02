@@ -14,7 +14,7 @@ import { GifSprite } from 'pixi.js/gif';
   document.body.appendChild(app.canvas);
 
   const source = await Assets.load (
-    'https://userland.pixijs.io/gif/examples/chew.gif',
+    'https://raw.githubusercontent.com/Dingledor/RatSpace/refs/heads/master/dorb.gif',
   );
   
   const dorb = new GifSprite({
