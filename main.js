@@ -13,6 +13,7 @@ import '@pixi/sprite-animated'
   document.body.appendChild(app.canvas);
 
   const dorbPath = new URL('/dorbanimation.json', import.meta.url).href;
+  const dorbPNGPath = new URL('/dorbanimation.png', import.meta.url).href;
 
   const sheet = await Assets.load(dorbPath);
   const dorb= new AnimatedSprite(sheet.animations['0']);
