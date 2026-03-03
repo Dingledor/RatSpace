@@ -15,7 +15,7 @@ import '@pixi/sprite-animated'
   const dorbPath = new URL('/dorbanimation.json', import.meta.url).href;
   const dorbPNGPath = new URL('/dorbanimation.png', import.meta.url).href;
 
-  const sheet = await Assets.load('/dorbanimation.json');
+  const sheet = await Assets.load('/RatSpace/dorbanimation.json');
   const dorb= new AnimatedSprite(sheet.animations['0']);
 
   app.stage.addChild(dorb);
