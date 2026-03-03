@@ -12,7 +12,7 @@ import '@pixi/sprite-animated'
   // Step 4
   document.body.appendChild(app.canvas);
 
-  const sheet = await Assets.load('dorbanimation.json');
+  const sheet = await Assets.load('/docs/assets/dorbanimation.json');
   const dorb= new AnimatedSprite(sheet.animations['0']);
 
   app.stage.addChild(dorb);
